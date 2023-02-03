@@ -1,0 +1,18 @@
+.flagborder {
+    width:600px;
+    height:300px;
+    border:solid 3px silver;
+}
+.rectangle {
+    width:600px;
+    height:100px;
+}
+.white {
+    background-color:white;
+}
+.blue {
+    background-color:blue;
+}
+.red {
+    background-color:red;
+}
